@@ -1,1 +1,10 @@
-# lab7
+# 
+
+
+
+
+
+
+
+
+console.writeline("apple,Ac");
